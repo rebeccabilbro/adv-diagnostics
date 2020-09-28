@@ -9,8 +9,8 @@ This course assumes that you have Python >= 3.5 installed as well as a package m
 Clone the repository and go into the top-level directory:
 
 ```bash
-$ git clone git@github.com:rebeccabilbro/advanced-diagnostics.git
-$ cd advanced-diagnostics
+$ git clone git@github.com:rebeccabilbro/adv-diagnostics.git
+$ cd adv-diagnostics
 ```
 
 Requirements can be installed with:
